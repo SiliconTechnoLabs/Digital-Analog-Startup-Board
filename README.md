@@ -1,0 +1,2 @@
+# Digital-Analog-Startup-Board
+Digital &amp; Analog Breakout Board is basic peripherals prototype board for ARDUINO and other microcontrollers. If you are start learning of ARDUINO or Microcontroller than this tiny prototype board is very easy to interface, with some basic knowledge of electronics. Using this tiny prototype board you can build small projects to bring your development in real life. If you want to monitor room temperature and switch on-off device through IR remote control than this board have all required sensor to start small projects.
